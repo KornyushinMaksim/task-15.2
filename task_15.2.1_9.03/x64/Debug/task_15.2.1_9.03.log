@@ -1,0 +1,4 @@
+﻿  task_15.2.1_9.03.cpp
+C:\Users\Макс\source\repos\task_15.2.1_9.03\task_15.2.1_9.03\task_15.2.1_9.03.cpp(55,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Макс\source\repos\task_15.2.1_9.03\task_15.2.1_9.03\task_15.2.1_9.03.cpp(51,9): warning C4101: a: неиспользованная локальная переменная
+  task_15.2.1_9.03.vcxproj -> C:\Users\Макс\source\repos\task_15.2.1_9.03\x64\Debug\task_15.2.1_9.03.exe
